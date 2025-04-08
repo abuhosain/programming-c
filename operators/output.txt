@@ -1,0 +1,4 @@
+The sum of 40 and 20 is 60
+The difference of 40 and 20 is 20
+The product of 40 and 20 is 800
+The quotient of 40 and 20 is 2
