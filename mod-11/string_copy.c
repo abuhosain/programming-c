@@ -9,7 +9,7 @@ int main(){
    // for(int i = 0; i <= length; i++){
    //    a[i] = b[i];
    // }
-   strcopy(a, b);
+   strcpy(a, b);
 
    printf("%s %s\n", a, b);
    return 0;
