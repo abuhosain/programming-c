@@ -12,5 +12,8 @@ int main(){
 
    int pow_val = pow(2, 3);
    printf("The pow value is: %d\n", pow_val);
+
+   int abs_val = abs(-5);
+    printf("The abs value is: %d\n", abs_val);
    return 0;
 };
