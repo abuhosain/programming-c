@@ -9,5 +9,8 @@ int main(){
    printf("The round value is: %d\n", round_val);
    double sqrt_val = sqrt(16);
    printf("The sqrt value is: %lf\n", sqrt_val);
+
+   int pow_val = pow(2, 3);
+   printf("The pow value is: %d\n", pow_val);
    return 0;
 };

@@ -2,3 +2,4 @@ The ceil value is: 3
 The floor value is: 2
 The round value is: 2
 The sqrt value is: 4.000000
+The pow value is: 8
