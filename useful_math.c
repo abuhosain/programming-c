@@ -7,5 +7,7 @@ int main(){
    printf("The floor value is: %d\n", floor_val);
   int round_val = round(2.4);
    printf("The round value is: %d\n", round_val);
+   double sqrt_val = sqrt(16);
+   printf("The sqrt value is: %lf\n", sqrt_val);
    return 0;
 };
