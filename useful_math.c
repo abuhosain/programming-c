@@ -5,7 +5,7 @@ int main(){
    printf("The ceil value is: %d\n", ceil_val);
    int floor_val = floor(2.5);
    printf("The floor value is: %d\n", floor_val);
-  int round_val = round(2.5);
+  int round_val = round(2.4);
    printf("The round value is: %d\n", round_val);
    return 0;
 };
