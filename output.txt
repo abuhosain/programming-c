@@ -1,1 +1,1 @@
-The sum is: 7
+The sum is: 10
