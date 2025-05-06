@@ -7,6 +7,9 @@ int main(){
 
   int* ptr;
   ptr = &x;
-printf("%p\n", *ptr); 
+  *ptr = 10;
+  printf("%p\n", ptr); 
+  printf("%d\n", *ptr); 
+  printf("%d\n", x);
   return 0;
 };
